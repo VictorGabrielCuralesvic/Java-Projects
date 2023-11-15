@@ -1,3 +1,3 @@
 # Java-Projects
-repositorio para prática e estudo de java e poo
+repositorio para prática e estudo da linguagem Java
  
